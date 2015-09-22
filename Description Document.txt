@@ -1,0 +1,1 @@
+I was only able to load one responsive image using css. The rest of the work will be done using targets, blocking divs behind each other.
